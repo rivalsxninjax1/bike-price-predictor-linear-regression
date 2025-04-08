@@ -1,1 +1,1 @@
-this is the simple program predicting the price of the bike using different factors or independent variables using the linear regression of machine learning 
+this is the simple program predicting the price of the bike using different factors or independent variables(multiple variables) using the linear regression of machine learning 
